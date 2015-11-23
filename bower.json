@@ -1,9 +1,9 @@
 {
-  "name": "ngTimepicker",
-  "version": "0.8.0",
+  "name": "ngTimepickerNoDep",
+  "version": "0.0.1",
   "homepage": "https://github.com/Stevio54/ngTimepicker",
   "authors": [
-    "Jan Kuri <jkuri88@gmail.com>"
+    "Steven Carnes"
   ],
   "description": "AngularJS Timepicker",
   "main": "src/js/ngTimepicker.js",
